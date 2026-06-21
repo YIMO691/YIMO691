@@ -1,47 +1,57 @@
 # Hi, I'm Yimo 👋
 
-Unity 客户端开发学习者，主要方向是游戏客户端架构、网络同步、DOTS 性能优化和工程化实践。
+Unity 客户端开发学习者 → AI Agent 工程实践者。方向：游戏客户端架构、性能优化、Agent 管线工程。
 
-## 🎮 Main Projects
+---
 
-### MMORPGDemo3
-一个 Unity + .NET 服务端权威 MMORPG 垂直切片 Demo。
+## 🎮 核心项目
 
-重点展示：
-- Unity 客户端模块拆分
-- 服务端权威同步思路
-- 角色移动、战斗、技能、状态同步
-- 客户端与服务端联调流程
-- 面向作品集的完整项目结构
+| 项目 | 语言 | 说明 |
+|:---|:--:|:---|
+| [hermes-harness](https://github.com/YIMO691/hermes-harness) | Python | Agent 工作线 — SDD 驱动、Harness 约束、Loop 就绪 |
+| [BackpackDemo](https://github.com/YIMO691/BackpackDemo) | C# | Unity 客户端验证项目 |
+| [obsidian-normalizer](https://github.com/YIMO691/obsidian-normalizer) | Python | Obsidian Markdown 规范化工具 |
+| [unity-code-review-agent](https://github.com/YIMO691/unity-code-review-agent) | Python | Unity C# 静态审查工具 |
 
-### Unity-DOTS-LearningDemo
-Unity DOTS / ECS 学习与性能验证 Demo。
+## 📦 验证项目集
 
-重点展示：
-- ECS 数据驱动设计
-- Jobs / Burst 优化
-- 大量实体场景性能测试
-- DOTS 与传统 MonoBehaviour 写法对比
+| 项目 | 语言 | 说明 |
+|:---|:--:|:---|
+| [unity-verification-projects](https://github.com/YIMO691/unity-verification-projects) 🔒 | C# | 10 个历史 Unity 验证项目 |
+| [unity-learning-lab](https://github.com/YIMO691/unity-learning-lab) | C# | 6 个 Unity 性能学习实验 |
 
-## 🧠 Learning Focus
+## 🕹️ Unity 作品
 
-- Unity 客户端架构
-- C# 工程化
-- 游戏网络同步
-- 热更新方案
-- DOTS / ECS
-- UI 框架与资源管理
-- CI/CD 与自动化测试
+| 项目 | 语言 | 说明 |
+|:---|:--:|:---|
+| [MMORPGDemo3](https://github.com/YIMO691/MMORPGDemo3) | C# | Unity + .NET 服务端权威 MMORPG 垂直切片 |
+| [Unity-DOTS-LearningDemo](https://github.com/YIMO691/Unity-DOTS-LearningDemo) | C# | DOTS/ECS 学习与性能验证 |
+| [Unity-AI-LearningDemo](https://github.com/YIMO691/Unity-AI-LearningDemo) | C# | Unity AI 行为学习 Demo |
 
-## 📌 Repository Guide
+## 🗄️ 早期原型
 
-| Type | Repositories |
-|---|---|
-| Portfolio Projects | MMORPGDemo3, Unity-DOTS-LearningDemo |
-| Legacy Prototypes | RPGDemo1-Client, RPGDemo2-Client |
-| Learning Notes | unity-learning-notes |
-| Fork / Reference | UniTask, VContainer |
+| 项目 | 语言 | 说明 |
+|:---|:--:|:---|
+| [RPGDemo2-Client](https://github.com/YIMO691/RPGDemo2-Client) | C# | RPG 客户端原型 |
+| [RPGDemo1-Client](https://github.com/YIMO691/RPGDemo1-Client) | C# | RPG 客户端原型 |
+| [DONT_SITDOWN](https://github.com/YIMO691/DONT_SITDOWN) | ? | 久坐提醒工具 |
 
-## 📫 Contact
+## 🛠️ 参考 / Fork
 
-GitHub: @YIMO691
+| 项目 | 说明 |
+|:---|:---|
+| [UniTask](https://github.com/YIMO691/UniTask) | Cysharp — 零分配 async/await |
+| [VContainer](https://github.com/YIMO691/VContainer) | hadashiA — 最快 GC-free DI |
+
+## 🧠 学习方向
+
+- Unity 客户端架构（MVP / ECS / DOTS）
+- 游戏网络同步（Netcode / 服务端权威）
+- 性能优化（GC / Burst / Jobs / Profiler）
+- 热更新（HybridCLR / Addressables）
+- AI Agent 管线工程（SDD / Harness / Multi-Agent）
+- 知识库工程（Obsidian / RAG / 自动化沉淀）
+
+---
+
+📫 GitHub: [@YIMO691](https://github.com/YIMO691)
