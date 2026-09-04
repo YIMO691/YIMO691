@@ -8,8 +8,10 @@ Unity 客户端开发学习者 → AI Agent 工程实践者。方向：游戏客
 
 | 项目 | 类型 | 说明 |
 |:---|:--:|:---|
+| [Ares-Config-Copilot](https://github.com/YIMO691/Ares-Config-Copilot) | 公开项目 | 面向游戏策划配置表工作的 AI 辅助流程，强调确定性校验、变更证据和可复核交付 |
 | [aeh](https://github.com/YIMO691/aeh) | 主线 | Adaptive Engineering Harness：面向 AI Coding Agent 的变更验收层，关注契约、证据、验证门禁、修复与升级流程 |
 | [aeh-change-lens](https://github.com/YIMO691/aeh-change-lens) | 工具 | 面向 AI 辅助代码变更的解释工具，把 old-path 到 new-path 的差异转成带证据的变更说明 |
+| [Workflow-SOP](https://github.com/YIMO691/Workflow-SOP) 🔒 | 私有 SOP | 轻量 evidence-driven 软件开发 SOP，覆盖 PRD、SDD、TDD、AI playbook 和对齐门禁 |
 | [aeh-evals](https://github.com/YIMO691/aeh-evals) | 评估仓库 | AEH 的独立 evidence-first 评估仓库，用来验证流程有效性、任务结果和评估边界 |
 
 ## 🔗 关联项目
