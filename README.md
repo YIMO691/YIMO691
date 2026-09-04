@@ -8,10 +8,18 @@ Unity 客户端开发学习者 → AI Agent 工程实践者。方向：游戏客
 
 | 项目 | 类型 | 说明 |
 |:---|:--:|:---|
-| [hermes-harness](https://github.com/YIMO691/hermes-harness) | 主线 | Agent 工作线本体：SDD 驱动、Harness 约束、Loop 就绪、审查与回归流程 |
+| [aeh](https://github.com/YIMO691/aeh) | 主线 | Adaptive Engineering Harness：面向 AI Coding Agent 的变更验收层，关注契约、证据、验证门禁、修复与升级流程 |
+| [aeh-change-lens](https://github.com/YIMO691/aeh-change-lens) | 工具 | 面向 AI 辅助代码变更的解释工具，把 old-path 到 new-path 的差异转成带证据的变更说明 |
+| [aeh-evals](https://github.com/YIMO691/aeh-evals) | 评估仓库 | AEH 的独立 evidence-first 评估仓库，用来验证流程有效性、任务结果和评估边界 |
+
+## 🔗 关联项目
+
+| 项目 | 类型 | 说明 |
+|:---|:--:|:---|
+| [hermes-harness](https://github.com/YIMO691/hermes-harness) | Agent 工作线 | SDD 驱动、Harness 约束、Loop 就绪的个人 Agent 工程工作线 |
+| [unity-code-review-agent](https://github.com/YIMO691/unity-code-review-agent) | 独立工具 | Unity C# 静态审查辅助工具，用规则扫描生成可人工复核的 Markdown 报告 |
 | [BackpackDemo](https://github.com/YIMO691/BackpackDemo) | Unity 验证场 | 用真实 Unity 背包/筛选功能验证 Agent 从需求到实现、审查、测试报告的闭环 |
 | [obsidian-normalizer](https://github.com/YIMO691/obsidian-normalizer) | Python 工具 / 验证场 | Obsidian Markdown frontmatter 规范化工具，验证幂等处理、字段排序和测试报告沉淀 |
-| [unity-code-review-agent](https://github.com/YIMO691/unity-code-review-agent) | 独立工具 | Unity C# 静态审查辅助工具，用规则扫描生成可人工复核的 Markdown 报告 |
 
 ## 🕹️ Unity 作品与学习
 
