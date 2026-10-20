@@ -20,7 +20,7 @@
 | [aeh-change-lens](https://github.com/YIMO691/aeh-change-lens) | 把 AI 代码变更的前后差异转成带证据的变更说明 |
 | [aeh-evals](https://github.com/YIMO691/aeh-evals) | AEH 的独立评估仓库，验证流程有效性与任务结果 |
 | [claude-skills-kit](https://github.com/YIMO691/claude-skills-kit) | Claude / Codex 通用配置与技能包 |
-| [DONT_SITDOWN](https://github.com/YIMO691/DONT_SITDOWN) | 从飞书远程控制 Claude Code 写代码、修 Bug、查状态 |
+| [feishu-cc-pipeline](https://github.com/YIMO691/feishu-cc-pipeline) | 从飞书远程控制 Claude Code 写代码、修 Bug、查状态 |
 
 ## 🕹️ Unity 与游戏开发
 
